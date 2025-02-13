@@ -34,3 +34,5 @@ if de_1 > 0:
 
 if numero > 0:
     print(f"\nResiduo: {numero} (no se pudo descomponer con los valores de la tabla)")
+      #probando 
+      #agregando commit 
