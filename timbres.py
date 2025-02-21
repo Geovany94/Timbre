@@ -36,3 +36,6 @@ if numero > 0:
     print(f"\nResiduo: {numero} (no se pudo descomponer con los valores de la tabla)")
       #probando 
       #agregando commit 
+      #'''HOla mundo esto es un programam para probar el git'''
+      #SUbied git o commit
+      #git push origin master
